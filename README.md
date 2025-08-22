@@ -69,7 +69,7 @@ I love building **interactive web applications** and exploring **AI/ML projects*
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https:https://www.linkedin.com/in/shashwat06/" target="_blank">
+  <a href="https://www.linkedin.com/in/shashwat06/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="mailto:work.shashwatojha@gmail.com" target="_blank">
