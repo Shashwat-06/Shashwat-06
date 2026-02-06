@@ -72,6 +72,9 @@ Open-source contributor with recent work on **n8n**, focused on practical fixes 
   <a href="mailto:work.shashwatojha@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
+<a href="https://x.com/shashwat_06_">
+  <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 </p>
 
 ---
